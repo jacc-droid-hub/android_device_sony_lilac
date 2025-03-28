@@ -15,5 +15,5 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/lineage_lilac.mk \
+    $(LOCAL_DIR)/rr_lilac.mk \
     $(LOCAL_DIR)/lilac.mk
